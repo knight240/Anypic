@@ -23,6 +23,8 @@
     BOOL firstLaunch;
 }
 
+
+
 @property (nonatomic, strong) PAPHomeViewController *homeViewController;
 @property (nonatomic, strong) PAPActivityFeedViewController *activityViewController;
 @property (nonatomic, strong) PAPWelcomeViewController *welcomeViewController;
@@ -47,7 +49,7 @@
     // [Parse setApplicationId:@"APPLICATION_ID" clientKey:@"CLIENT_KEY"];
     [PFFacebookUtils initializeFacebook];
     // ****************************************************************************
-    
+    [Parse setApplicationId:@"LkslyhGEkHUNAZ2cZwR9uNW72ebW9mRaw1MnHsie" clientKey:@"q4PDir0k8yeXU4LlLVbd9GoFk4fM2RhgxlRqDOtV"];
     // Track app open.
     [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
 

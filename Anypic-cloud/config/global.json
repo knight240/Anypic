@@ -1,8 +1,8 @@
 {
     "applications": {
         "Anypic": {
-            "applicationId": "YOUR_PARSE_APP_ID", 
-            "masterKey": "YOUR_PARSE_APP_MASTER_KEY"
+            "applicationId": "LkslyhGEkHUNAZ2cZwR9uNW72ebW9mRaw1MnHsie", 
+            "masterKey": "Wc0A7SPkYUhUKFPKtlxFkcw0pOPSFyyuLBP3Ug5j"
         }, 
         "_default": {
             "link": "Anypic"
